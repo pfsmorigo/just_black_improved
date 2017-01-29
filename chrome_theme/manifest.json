@@ -1,0 +1,32 @@
+{
+    "name": "Chrome Theme",
+    "theme": {
+        "colors": {
+            "bookmark_text": [ 18, 50, 114 ],
+            "control_background": [ 0, 0, 0, 0 ],
+            "frame": [ 50, 50, 50 ],
+            "frame_inactive": [ 50, 50, 50 ],
+            "frame_incognito": [ 50, 50, 50 ],
+            "frame_incognito_inactive": [ 50, 50, 50 ],
+            "ntp_background": [ 255, 255, 255 ],
+            "ntp_header": [ 75, 140, 220 ],
+            "ntp_link": [ 6, 55, 116 ],
+            "ntp_section": [ 229, 239, 254 ],
+            "ntp_section_link": [ 6, 55, 116 ],
+            "ntp_section_text": [ 0, 0, 0 ],
+            "ntp_text": [ 0, 0, 0 ],
+            "tab_background_text": [ 64, 64, 64 ],
+            "tab_text": [ 0, 0, 0 ],
+            "toolbar": [ 255, 255, 255 ]
+        },
+        "images": {
+            "theme_toolbar": "images/toolbar.png",
+            "theme_tab_background": "images/tab_background.png"
+        },
+        "properties": {
+            "ntp_background_alignment": "center center",
+            "ntp_background_repeat": "repeat"
+        }
+    },
+    "version": "1"
+}

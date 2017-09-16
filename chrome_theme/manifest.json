@@ -8,24 +8,25 @@
             "frame_inactive": [ 50, 50, 50 ],
             "frame_incognito": [ 50, 50, 50 ],
             "frame_incognito_inactive": [ 50, 50, 50 ],
-            "ntp_background": [ 255, 255, 255 ],
+            "ntp_background": [ 0, 0, 0 ],
             "ntp_header": [ 75, 140, 220 ],
             "ntp_link": [ 6, 55, 116 ],
             "ntp_section": [ 229, 239, 254 ],
             "ntp_section_link": [ 6, 55, 116 ],
             "ntp_section_text": [ 0, 0, 0 ],
-            "ntp_text": [ 0, 0, 0 ],
+            "ntp_text": [ 200, 200, 200 ],
             "tab_background_text": [ 64, 64, 64 ],
             "tab_text": [ 0, 0, 0 ],
-            "toolbar": [ 255, 255, 255 ]
+            "toolbar": [ 230, 230, 230 ]
         },
         "images": {
             "theme_toolbar": "images/toolbar.png",
-            "theme_tab_background": "images/tab_background.png"
+            "theme_tab_background": "images/tab_background.png",
+            "theme_ntp_background" : "images/ntp_background.jpg"
         },
         "properties": {
-            "ntp_background_alignment": "center center",
-            "ntp_background_repeat": "repeat"
+            "ntp_background_alignment": "top",
+            "ntp_background_repeat": "no-repeat"
         }
     },
     "version": "1"

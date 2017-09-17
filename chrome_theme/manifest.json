@@ -1,5 +1,5 @@
 {
-    "name": "Chrome Theme",
+    "name": "Chrome Theme by pfsmorigo",
     "theme": {
         "colors": {
             "bookmark_text": [ 18, 50, 114 ],
@@ -17,12 +17,14 @@
             "ntp_text": [ 200, 200, 200 ],
             "tab_background_text": [ 64, 64, 64 ],
             "tab_text": [ 0, 0, 0 ],
-            "toolbar": [ 230, 230, 230 ]
+            "toolbar": [ 230, 230, 230 ],
+            "button_background": [150, 150, 150]
         },
         "images": {
             "theme_toolbar": "images/toolbar.png",
             "theme_tab_background": "images/tab_background.png",
-            "theme_ntp_background" : "images/ntp_background.jpg"
+            "theme_ntp_background" : "images/ntp_background.jpg",
+            "theme_frame": "images/theme_frame.png"
         },
         "properties": {
             "ntp_background_alignment": "top",

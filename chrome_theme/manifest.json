@@ -2,7 +2,7 @@
     "name": "Chrome Theme by pfsmorigo",
     "theme": {
         "colors": {
-            "bookmark_text": [ 18, 50, 114 ],
+            "bookmark_text": [ 240, 240, 240 ],
             "control_background": [ 0, 0, 0, 0 ],
             "frame": [ 50, 50, 50 ],
             "frame_inactive": [ 50, 50, 50 ],
@@ -10,14 +10,14 @@
             "frame_incognito_inactive": [ 50, 50, 50 ],
             "ntp_background": [ 0, 0, 0 ],
             "ntp_header": [ 75, 140, 220 ],
-            "ntp_link": [ 6, 55, 116 ],
+            "ntp_link": [ 200, 200, 200 ],
             "ntp_section": [ 229, 239, 254 ],
             "ntp_section_link": [ 6, 55, 116 ],
             "ntp_section_text": [ 0, 0, 0 ],
             "ntp_text": [ 200, 200, 200 ],
             "tab_background_text": [ 64, 64, 64 ],
             "tab_text": [ 0, 0, 0 ],
-            "toolbar": [ 230, 230, 230 ],
+            "toolbar": [ 50, 50, 50 ],
             "button_background": [150, 150, 150]
         },
         "images": {

@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Dark Simple Chrome Theme",
-	"version": "0.1",
+	"version": "1.1",
 	"description": "A dark and simple theme that I use for Chrom{ium,e}",
 	"author": "Paulo Flabiano Smorigo|pfsmorigo|pfsmorigo",
 	"theme": {
@@ -27,12 +27,20 @@
 		"images": {
 			"theme_toolbar": "images/toolbar.png",
 			"theme_tab_background": "images/tab_background.png",
-			"theme_ntp_background" : "images/ntp_background.jpg",
-			"theme_frame": "images/theme_frame.png"
+			"theme_ntp_background" : "images/ntp_background.jpg"
+		},
+		"tints": {
+			"buttons": [0.5, 0.5, 0.5],
+			"frame": [0.5, 0.5, 0.5],
+			"frame_inactive": [0.5, 0.5, 0.5],
+			"frame_incognito": [ 0.5, 0.5, 0.5 ],
+			"frame_incognito_inactive": [0.5, 0.5, 0.5],
+			"background_tab": [0.5, 0.5, 0.5]
 		},
 		"properties": {
-			"ntp_background_alignment": "top",
-			"ntp_background_repeat": "no-repeat"
+			"ntp_background_alignment": "stretch",
+			"ntp_background_repeat": "no-repeat",
+			"ntp_logo_alternate": 0
 		}
 	}
 }

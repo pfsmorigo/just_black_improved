@@ -27,7 +27,8 @@
 		"images": {
 			"theme_toolbar": "images/toolbar.png",
 			"theme_tab_background": "images/tab_background.png",
-			"theme_ntp_background" : "images/ntp_background.jpg"
+			"theme_ntp_background" : "images/ntp_background.jpg",
+			"theme_frame": "images/theme_frame.png"
 		},
 		"tints": {
 			"buttons": [0.5, 0.5, 0.5],

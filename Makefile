@@ -12,7 +12,9 @@ install: chrome_theme.crx
 	google-chrome file://$(CURDIR)/$<
 
 zip:
-	zip chrome_theme.zip chrome_theme LICENSE.md README.md
+	zip chrome_theme.zip \
+		chrome_theme/images \
+		chrome_theme/manifest.json
 
 clean:
 	-rm -f *.crx *.pem *.zip

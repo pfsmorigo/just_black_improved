@@ -1,4 +1,9 @@
-# Google Chrome Theme Generator
+# Dark Theme Improved
+
+![Large Screenshot](storeimages/large_promo_tile.png)
+
+
+## Create the CRX locally
 
  * Just run 'make'
  * It will create the key if necessary and the chrome_theme.crx file.

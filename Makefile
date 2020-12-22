@@ -11,7 +11,10 @@ key.pem:
 install: chrome_theme.crx
 	google-chrome file://$(CURDIR)/$<
 
+zip:
+	zip chrome_theme.zip chrome_theme LICENSE.md README.md
+
 clean:
-	-rm -f *.crx *.pem
+	-rm -f *.crx *.pem *.zip
 
 FORCE:

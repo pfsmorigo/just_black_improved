@@ -1,6 +1,11 @@
-# Dark Theme Improved
+# Just Black Improved
 
 ![Large Screenshot](storeimages/large_promo_tile.png)
+
+
+## Chrome Web Store
+
+https://chrome.google.com/webstore/detail/just-black-improved/djhodaekkhcngaaninbleegpklddnhdh
 
 
 ## Create the CRX locally

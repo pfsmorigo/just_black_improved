@@ -1,8 +1,8 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-  "manifest_version": 2,
-  "version": "2",
+  "manifest_version": 3,
+  "version": "3",
   "name": "Just Black Improved",
   "description": "Just Black Improved: based on Google's version with some tweaks",
 
